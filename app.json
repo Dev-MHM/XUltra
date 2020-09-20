@@ -23,12 +23,12 @@
       "required": false
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "description": "Do Not change",
+      "value": "1051375"
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "description": "Do not change",
+      "value": "df4f7a6255a1d93b972f952d9d285c1e"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally",
