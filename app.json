@@ -93,13 +93,7 @@
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Europe/Vienna",
       "required": false
-    },
-    
-    "TEMP_DOWNLOAD_DIRECTORY": {
-      "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
-      "required": false
-  }
+    }
   },
   "addons": [{
     "plan": "heroku-postgresql",
