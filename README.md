@@ -11,6 +11,8 @@ python3.8 -m venv venv
 
 pip install telethon
 
+python -m venv venv
+
 . ./venv/bin/activate
 
 cd /sdcard/Telegram
