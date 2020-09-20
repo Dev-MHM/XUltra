@@ -1,6 +1,6 @@
-# FORK AT YOUR OWN RISK
 # Installing
-Join https://t.me/MHMOFFICIAL for updates and tuts
+First install [Termux](https://play.google.com/store/apps/details?id=com.termux)
+Open it and give this commands
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
