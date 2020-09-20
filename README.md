@@ -1,4 +1,4 @@
-# Installing Step1
+# Installation Step1
 First install [Termux](https://play.google.com/store/apps/details?id=com.termux)
 Open it and give this commands
 
@@ -24,8 +24,11 @@ python3 telesetup.py
 ```
 
 than copy your sessionkey
-# Isntallation Step2
+# Intallation Step2
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+Full video at Telegram:
+
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
