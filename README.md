@@ -7,8 +7,6 @@ termux-setup-storage
 
 pkg install python git -y
 
-python3.8 -m venv venv
-
 pip install telethon
 
 python -m venv venv
@@ -20,6 +18,8 @@ cd /sdcard/Telegram
 git clone https://github.com/Dev-MHM/XUltra.git
 
 cd XUltra
+
+pip install telethon
 
 python3 telesetup.py
 
