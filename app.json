@@ -93,7 +93,13 @@
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Europe/Vienna",
       "required": false
-    }
+    },
+    
+    "PRIVATE_GROUP_ID": {
+      "description": "Enter Group ID you get it from Telegram",
+      "value": "",
+      "required": false
+    }  
   },
   "addons": [{
     "plan": "heroku-postgresql",
